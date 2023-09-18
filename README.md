@@ -18,7 +18,8 @@ Three links to different projects.
 
 Contact
 
-Email: your@email.com
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+Email: zachchamber07@gmail.com
+LinkedIn: Zachary Chamberlain
+GitHub: zchamber
+
 Let's connect and create something amazing together!
